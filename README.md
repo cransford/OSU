@@ -1,3 +1,6 @@
 # OSU
-Repository for OSU coursework
-Looks like a lot of coursework will be submitted through private repositories owned by OSU...these may just be smaller practice or other extra work done related to classes (EG coding work from Discrete Math textbook.)
+No classwork, some classes consider public github to be honor code violation.
+
+Only for small tests, sidework that is related to study topics in class.
+
+
